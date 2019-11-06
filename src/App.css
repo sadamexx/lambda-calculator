@@ -20,3 +20,37 @@
     padding-right: 8%;
     font-size: 5.0rem;
   }
+
+.digits {
+   height: 60px;
+   width: 60px;
+   border-radius: 100%;
+   color: white;
+   background-color: steelblue;
+   font-size: 28px;
+   box-shadow: 2px 2px #322c2d;
+   border: 1px solid black;
+
+}  
+
+.ops {
+    height: 60px;
+   width: 60px;
+   border-radius: 100%;
+   color: white;
+   background-color: darkcyan;
+   font-size: 28px;
+   border: 1px solid black;
+   box-shadow: 2px 2px #322c2d;
+}
+
+.unique {
+    height: 60px;
+   width: 60px;
+   border-radius: 100%;
+   color: white;
+   background-color: darkturquoise;
+   font-size: 28px;
+   border: 1px solid black;
+   box-shadow: 2px 2px #322c2d;
+}
